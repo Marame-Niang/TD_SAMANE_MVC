@@ -46,14 +46,14 @@ class Compte
 
     /**
      * Many compte have one entreprise. This is the owning side.
-     * @ManyToOne(targetEntity="Entreprise", inversedBy="comptes")
+     * @ManyToOne(targetEntity="Entreprise", inversedBy="compte")
      * @JoinColumn(name="entreprise_id", referencedColumnName="id")
      */
     private $id_entreprise;
 
     /**
      * Many compte have one typeCompte. This is the owning side.
-     * @ManyToOne(targetEntity="TypeCompte", inversedBy="comptes")
+     * @ManyToOne(targetEntity="TypeCompte", inversedBy="compte")
      * @JoinColumn(name="typeCompte_id", referencedColumnName="id")
      */
     private $typeCompte;

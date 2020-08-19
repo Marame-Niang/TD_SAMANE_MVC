@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.30, created on 2020-08-12 17:30:39
-  from "/opt/lampp/htdocs/SAMANEMVC/TDSamaneMVC/src/view/welcome/index.html" */
+/* Smarty version 3.1.30, created on 2020-08-19 23:52:32
+  from "/opt/lampp/htdocs/TD_SAMANE_MVC/src/view/welcome/index.html" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.30',
-  'unifunc' => 'content_5f340b1f6cdcd0_15582287',
+  'unifunc' => 'content_5f3d9f20710204_26416741',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
-    '50024adfc3ce89af7660c2529840222987174d12' => 
+    '1c1ec0cceda56de07b57f5a2350e1074f53d2a91' => 
     array (
-      0 => '/opt/lampp/htdocs/SAMANEMVC/TDSamaneMVC/src/view/welcome/index.html',
-      1 => 1597246233,
+      0 => '/opt/lampp/htdocs/TD_SAMANE_MVC/src/view/welcome/index.html',
+      1 => 1597747612,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5f340b1f6cdcd0_15582287 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5f3d9f20710204_26416741 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!doctype html>
 <html lang="en">

@@ -28,7 +28,6 @@ use \src\model\CompteRepository;
                         if ($choixcompte == 'simple') {
                             $client = new Client();
                             $matricule = codeAleatoire(8);
-                            //var_dump($matricule);
                             $client-> setMat($matricule);
                             $client-> setCni($cni);
                             $client-> setNom($nom);
